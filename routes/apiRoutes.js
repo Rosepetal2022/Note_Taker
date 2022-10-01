@@ -3,7 +3,7 @@ const router = require('express').Router();
 const fs = require('fs');
 const { v4:uuidv4 } = require('uuid');
 const notes  = require('../db/db.json');
-const { url } = require('inspector');
+
 
 
 router.get('/notes', (req, res) => {
