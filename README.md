@@ -18,6 +18,7 @@
   uuid
   
   ## Screen Shot
+    
     ![This is an image](/assets/Note_Taker_Opening.png)
 
   ## Languages
