@@ -1,4 +1,4 @@
-# Note Taker
+# Team Profile Generator
 
   * [Description](#description)
   * [Installation](#installation)
@@ -8,8 +8,7 @@
   
   ## Description 
 
-    An app created to allow you to write and save notes. This app will help you stay organized
-    and keep track of tasks you need to complete.
+ An app designed to let you write and save notes. To help you keep yourself organized and rememeber tasks you need to complete. 
 
   ## Installation
 
@@ -18,16 +17,19 @@
   uuid
   
   ## Screen Shot
-    
-    ![This is an image](/assets/Note_Taker_Opening.png)
+
+  ![This is an image](./img/Note_Taker_Opening.png)
+  ![This is an image](./img/Note_Taker_Page.png)
 
   ## Languages
 
   This app was created using:
   
-  JavaScript
-  express.js
-  Node.js
+  -JavaScript
+  -HTML
+  -Node.js
+  -express.js
+  
 
   ## Questions
 
