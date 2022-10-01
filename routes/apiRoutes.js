@@ -21,7 +21,6 @@ router.post('/notes', ({ body }, res) => {
 });
 
 router.delete("/notes/:id", (req, res) => {
-    console.log(req.params.id)
     let noteId = req.params.id;
     let j = 0;
     notes.forEach(note => {
@@ -30,7 +29,6 @@ router.delete("/notes/:id", (req, res) => {
             notes.splice((j - 1), 1)
         }
     });
-    console.log(notes)
     fs.writeFileSync(
         path.join( __dirname, '../db/db.json'),
         JSON.stringify(notes, null, 2)
