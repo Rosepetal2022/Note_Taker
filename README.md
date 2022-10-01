@@ -29,7 +29,11 @@
   -HTML
   -Node.js
   -express.js
+
+  ## Link to deployed page
   
+  Heroku: https://floating-springs-37260.herokuapp.com/
+
 
   ## Questions
 
