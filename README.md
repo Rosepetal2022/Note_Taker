@@ -17,9 +17,8 @@
   express.js
   uuid
   
-  ## screenshot
-    ![This is an image](./assets/Note_Taker_Opening.png)
-    ![This is an image](./assets/Note_Taker_Page.png))
+  ## Screen Shot
+    ![This is an image](/assets/Note_Taker_Opening.png)
 
   ## Languages
 
